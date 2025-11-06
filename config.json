@@ -1,0 +1,12 @@
+{
+    "use_plugins": true,
+    "language": "es",
+    "integrations": {
+      "google_drive": true,
+      "salesforce": false
+    },
+    "optimizations": {
+      "search_enabled": true,
+      "real_time_collaboration": true
+    }
+  }

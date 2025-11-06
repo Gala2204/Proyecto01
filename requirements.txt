@@ -1,0 +1,3 @@
+pdfplumber==0.9.0
+json
+# Otras dependencias básicas para procesamiento de texto
